@@ -2,14 +2,17 @@
 
 ## Tested Environment
 
-- Google Cloud Scheduler
-- Python 3.10.7
-- Django 4.1.1
-- google-auth 2.12.0
-- requests 2.28.1
-- PyJWT 2.5.0
-- WSL2 Ubuntu
+- WSL2
+- Django environment
+  - Python 3.10
+  - Django 4.1.3
+  - Django REST framework 3.14.0
+  - django-vite 2.0.2
+- React environment
+  - React 18.2.0
+  - React Router 6.4.4
+  - Vite 3.2.3
+  - TypeScript 4.6.4
 
 ## Related Blog (Written in Japanese)
 
-- [Django + google-authで、Google Cloud SchedulerからのHTTPリクエストのみ受け付けるAPIエンドポイントを作成する - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2022/09/28/220244)
