@@ -16,3 +16,4 @@
 
 ## Related Blog (Written in Japanese)
 
+- [django-vite を使って、Django の template 上で React を動かしてみた - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2022/12/06/232643)
